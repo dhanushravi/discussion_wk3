@@ -1,0 +1,16 @@
+h1 {
+    color: blue;
+    font-family: Georgia;
+    font-weight:bold;
+}
+
+body{
+    background-color: #BAB86C;
+    font-family: Helvetica;
+    color: darkgreen;
+}
+img{
+    border: 20px solid;
+    border-color: aquamarine;
+    border-radius: 30px;
+}
